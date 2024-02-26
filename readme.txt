@@ -1,4 +1,4 @@
-1. Everything is working up to specification, but:
+1. Everything is working up to specification.
 2. In file qAlgorithms.py, I imported the library scipy.linalg to help with
 finding the column with free variables in the gamma matrix in Simon's algorithm.
 It helps if (is necessary that) you (hopefully) have scipy.linalg downloaded on
